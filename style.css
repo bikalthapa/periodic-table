@@ -1,0 +1,53 @@
+body{
+    text-align:center;
+    margin:0px;
+}
+table{
+    border-style:solid;
+    border-width:1px;
+    border-color:white;
+    font-style:bold;
+    margin:auto ;
+}
+.table{
+    margin-top:20px;
+}
+.table .first{
+    background-color:red;
+}
+.table .td{
+    background-color:blueviolet;
+}
+td{
+    padding:15px;
+}
+
+.ing{
+    background-color:green;
+}
+.alkm{
+    background-color:yellow;
+}
+.aem{
+    background-color:rgb(134, 134, 219);
+}
+
+.trm{
+    background-color:red;
+}
+.poorMetals{
+    background-color:aqua
+}
+.nonMetals{
+    background-color:fuchsia;
+}
+.nonM{
+    background-color:salmon;
+}
+.invisible {
+    border-top-color:transparent;
+}
+
+.pandg{
+    border-style:none;  
+}
